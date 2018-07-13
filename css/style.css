@@ -1,0 +1,117 @@
+body {
+  background: #00a478;
+}
+
+.vine {
+  font-size: 300%;
+     background-color: red;
+     text-align: center;
+     font-family: Arial;
+     border: 10px solid #B7FFBD;
+     text-transform: uppercase;
+     letter-spacing: 15px;
+     transition: rotate(-30)deg;
+     text-shadow: length
+}
+
+
+
+
+/*h1 {*/
+/*  margin: 0;*/
+/*}*/
+/*.card-container {*/
+/*  perspective: 100;*/
+/*}*/
+/*.card {*/
+/*  position: relative;*/
+/*  color: #000;*/
+/*  text-align: center;*/
+/*  line-height: 200px;*/
+/*  margin: 20px;*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+/*  transition: all 0.6s ease;*/
+/*  transform-style: preserve-3d;*/
+/*}*/
+/*.front, .back {*/
+/*  background: #B7FFBD;*/
+/*  position: absolute;*/
+/*  top; 0;*/
+/*  left: 0;*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+/*  backface-visibility: hidden;*/
+/*}*/
+/*.back {*/
+/*  transform: rotateY(180deg);*/
+/*}*/
+/*.card:hover {*/
+/*  transform: rotateY(180deg);*/
+/*}*/
+
+/*h1 {*/
+/*  margin: 0;*/
+/*}*/
+/*.card-container-2 {*/
+/*  perspective: 100;*/
+/*}*/
+/*.card-2 {*/
+/*  position: relative;*/
+/*  color: #000;*/
+/*  text-align: center;*/
+/*  line-height: 200px;*/
+/*  margin: 20px;*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+/*  transition: all 0.6s ease;*/
+/*  transform-style: preserve-3d;*/
+/*}*/
+/*.front-2, .back-2 {*/
+/*  background: #B7FFBD;*/
+/*  position: absolute;*/
+/*  top; 0;*/
+/*  left: 0;*/
+/*  width: 400px;*/
+/*  height: 200px;*/
+/*  backface-visibility: hidden;*/
+/*}*/
+/*.back-2 {*/
+/*  transform: rotateY(180deg);*/
+/*}*/
+/*.card-2:hover {*/
+/*  transform: rotateY(180deg);*/
+/*}*/
+
+/*h1 {*/
+/*  margin: 0;*/
+/*}*/
+/*.card-container-3 {*/
+/*  perspective: 100;*/
+/*}*/
+/*.card-3 {*/
+/*  position: relative;*/
+/*  color: #000;*/
+/*  text-align: center;*/
+/*  line-height: 200px;*/
+/*  margin: 20px;*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+/*  transition: all 0.6s ease;*/
+/*  transform-style: preserve-3d;*/
+/*}*/
+/*.front-3, .back-3 {*/
+/*  background: #B7FFBD;*/
+/*  position: absolute;*/
+/*  top; 0;*/
+/*  left: 0;*/
+/*  width: 400px;*/
+/*  height: 200px;*/
+/*  backface-visibility: hidden;*/
+/*}*/
+/*.back-3 {*/
+/*  transform: rotateY(180deg);*/
+/*}*/
+/*.card-3:hover {*/
+/*  transform: rotateY(180deg);*/
+/*}*/
